@@ -103,4 +103,3 @@ Acesse [portal.azure.com](https://portal.azure.com) e faça login com sua conta 
 - [Calculadora de preços Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
 
 
-*Laboratório realizado como parte do bootcamp Microsoft Azure Fundamentals na DIO.*
