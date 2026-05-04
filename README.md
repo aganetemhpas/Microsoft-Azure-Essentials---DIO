@@ -187,7 +187,36 @@ Acesse [portal.azure.com](https://portal.azure.com) e faça login com sua conta 
 - Exclua o Grupo de Recursos ao finalizar para **evitar cobranças**
 
 
+## 📘 Laboratório: Microsoft Azure -  Componentes de Arquitetura no Microsoft Azure
+
+A arquitetura no Microsoft Azure é composta por diversos componentes que trabalham juntos para garantir escalabilidade, segurança, alta disponibilidade e desempenho das aplicações.
+
+### 🌎 Regiões (Regions)
+São áreas geográficas onde os datacenters do Azure estão localizados. Permitem escolher onde seus recursos serão hospedados, ajudando em latência e conformidade.
+
+### 🏢 Zonas de Disponibilidade (Availability Zones)
+São datacenters fisicamente separados dentro de uma mesma região. Garantem alta disponibilidade e resiliência contra falhas.
+
+### 📦 Grupos de Recursos (Resource Groups)
+Estrutura lógica que organiza os recursos (VMs, bancos, redes, etc.) de um mesmo projeto, facilitando gestão, controle e monitoramento.
+
+### 🧩 Recursos (Resources)
+São os serviços individuais do Azure, como máquinas virtuais, bancos de dados, storage, redes, entre outros.
+
+### 🌐 Redes Virtuais (Virtual Networks - VNet)
+Permitem criar redes privadas no Azure, possibilitando comunicação segura entre recursos e integração com ambientes on-premises.
+
+### 💾 Armazenamento (Storage Accounts)
+Responsáveis por armazenar dados (blobs, arquivos, filas, tabelas), com alta durabilidade e escalabilidade.
+
+### ⚙️ Máquinas Virtuais (Virtual Machines)
+Fornecem poder computacional sob demanda, permitindo executar sistemas operacionais e aplicações na nuvem.
+
+### 🔐 Segurança e Governança
+Inclui ferramentas como controle de acesso (IAM), políticas, compliance e proteção de dados.
+
 ---
+
 
 ### ⚠️ Dicas Importantes
 
